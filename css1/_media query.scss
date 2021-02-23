@@ -1,0 +1,68 @@
+@media screen and (max-width: 480px) {
+    .brand-logo{
+        margin: auto;
+    }
+      }
+    
+    .form-inline{
+        margin-right: auto;
+    }
+    
+    @media screen and (max-width: 480px) {
+        .form-inline{
+            margin: auto;
+        }
+    
+        .form-control{
+            width: 254px !important;
+            margin-left: 0px !important;
+        }
+        .sign-in-btn{
+            width: 100% !important;
+        }
+        .icn-cart{
+            margin-left: 138px !important;
+            margin-top: 20px;
+    
+        }
+        .LOG-IN-BTN{
+            margin-left: 121px !important;
+            margin-top: 10px;
+        }
+        .icn-srh{
+        padding-left: 15px;
+        padding-right: 15px;
+        }
+    
+        .flower-img{
+            display: none;
+        }
+        .hero-heding{
+            font-size: 25px;
+        }
+    
+        .icn-srh2{
+            margin-right: -50px !important;
+        }
+    
+        .form-2{
+            width: 92% !important;
+        }
+    
+        .mob-adjustment{
+            margin: auto !important;
+            margin-left: 10px !important;
+        }
+    
+        .featured-heading{
+            text-align: center;
+        }
+    
+        .foter-heding{
+            text-align: center;
+        }
+    
+        .foter-link{
+            text-align: center;
+        }
+    }

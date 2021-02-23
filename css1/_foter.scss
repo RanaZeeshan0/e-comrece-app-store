@@ -1,0 +1,22 @@
+.foter{
+    background-color: #505050;
+    margin-top: 50px;
+}
+
+.foter-row{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.foter-heding{
+    color: white;
+    font-weight: normal !important;
+}
+
+.foter-link{
+    color: $button-background-color;
+    text-decoration: none;
+    font-family: "Open Sans",sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+}

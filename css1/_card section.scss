@@ -1,0 +1,53 @@
+.card-text{
+    float: right;
+    margin-top: -36px;
+}
+.stretched-link{
+ position: absolute;
+top: 10px;
+left: 0;
+z-index: 2;
+background-color: $button-background-color !important;
+color: #ffffff !important;
+font-weight: 800 !important;
+line-height: 28px !important;
+padding: 0 10px !important;
+}
+
+.crd-icn{
+    text-decoration: none;
+    color: black;
+
+}
+
+.crd-icn:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.featured-heading{
+    margin-top: 43px;
+    color: #727272;
+    margin-left: 15px;
+    margin-bottom: 30px;
+}
+
+.crd-end-btn{
+    background-color: $button-background-color !important;
+    color: white !important;
+    text-align: center !important;
+    border: 1px solid #2d9117 !important;
+    width: 300px;
+    margin: auto;
+    font-size: 20px !important;
+    padding: 10px !important;
+    margin-top: 40px;
+}
+
+
+
+
+
+// check-test
+
+
